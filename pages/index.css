@@ -25,6 +25,7 @@
   font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
+  z-index: 9;
 }
 
 .header__span-accent {
@@ -215,4 +216,5 @@ form {
 }
 
 .form__fieldset {
+  display: block;
 }

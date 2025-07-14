@@ -1,6 +1,6 @@
 .header {
   padding: 30px 80px 40px;
-  background: center/cover no-repeat #fff url(../images/background_headersvg);
+  background: center/cover no-repeat #fff url(../images/background_header.svg);
   position: relative;
   height: 800px;
   display: flex;

@@ -7,6 +7,7 @@
   display: flex;
   justify-content: space-between;
   padding-bottom: 173px;
+  padding-left: 80px;
 }
 
 .about__title {
@@ -53,7 +54,7 @@
 }
 
 .about__circle_animation_blurred {
-  animation: pulsate 2s ease-in-out 1s;
+  animation: pulsate 1.3s ease-in-out 0s;
 }
 
 @keyframes pulsate {

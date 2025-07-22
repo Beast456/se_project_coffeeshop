@@ -22,6 +22,7 @@
 }
 
 .form__button {
+  color: #fff;
   border-radius: 4px;
   width: 100%;
   border: none;
@@ -56,7 +57,11 @@
 }
 
 .form__label_type_checkbox {
-  display: block;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 12px;
 }
 
 .form__fieldset {

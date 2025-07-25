@@ -8,7 +8,7 @@
 }
 
 .header__title {
-  margin: 183px 0 0 50px;
+  margin: 183px 0 0 40px;
   max-width: 729px;
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
@@ -36,7 +36,7 @@
   line-height: 30px;
   margin: 28px 0 0;
   z-index: 1;
-  margin: 20px 0 0;
+  margin: 20px 0 0 40px;
   max-width: 683px;
 }
 
@@ -53,6 +53,7 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  margin-left: 40px;
 }
 
 .header__hours {

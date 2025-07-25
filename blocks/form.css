@@ -19,6 +19,7 @@
 .form__label {
   display: flex;
   flex-direction: column;
+  transition: none;
 }
 
 .form__button {

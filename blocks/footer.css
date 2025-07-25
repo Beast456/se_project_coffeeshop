@@ -48,6 +48,7 @@
 }
 
 .footer__social-link:hover {
+  opacity: 70px;
   gap: 10px;
   display: flex;
   color: white;

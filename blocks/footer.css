@@ -47,8 +47,7 @@
   height: 16px;
 }
 
-.footer__social-link:hover {
-  opacity: 70px;
+.footer__social-link {
   gap: 10px;
   display: flex;
   color: white;
@@ -58,6 +57,9 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+}
+footer__social-link:hover {
+  opacity: 70%;
 }
 
 .footer__copyright {
